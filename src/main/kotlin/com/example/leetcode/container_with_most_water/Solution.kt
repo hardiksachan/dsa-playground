@@ -5,7 +5,7 @@ import kotlin.math.min
 
 class Solution {
     fun maxArea(height: IntArray): Int {
-
+        TODO()
     }
 
     fun trimShortSides(heights: IntArray): IntArray {
@@ -14,6 +14,8 @@ class Solution {
         if (heights[1] > minH && heights[heights.lastIndex - 1] > minH) {
 
         }
+
+        TODO()
     }
 }
 
