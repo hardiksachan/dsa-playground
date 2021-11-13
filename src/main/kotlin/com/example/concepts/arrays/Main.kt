@@ -3,7 +3,7 @@ package com.example.concepts.arrays
 import java.util.*
 
 fun main() {
-    MultiDimension().main()
+    ArrayListExample().main()
 }
 
 //fun main() {
