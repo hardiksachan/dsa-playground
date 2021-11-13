@@ -2,7 +2,15 @@
 
 This repository contains solutions to dsa problems in kotlin.
 
-## Leetcode
+## DSA With Kunal
+Check the lectures [here](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java)
+
+#### Array
+| Problem | Difficulty | Solution |
+| --- | --- | --- |
+| [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/) | Easy | [Solution](https://github.com/hardiksachan/dsa-playground/blob/main/src/main/kotlin/com/example/concepts/arrays/assignments/p1920_build_array_from_permutation/Solution.kt) |
+
+## Random Leetcode
 
 | Problem | Solution | Comments |
 | --- | --- | --- |
