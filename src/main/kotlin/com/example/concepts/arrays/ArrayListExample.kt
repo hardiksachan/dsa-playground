@@ -28,6 +28,5 @@ class ArrayListExample {
         list[1] = 5
 
         println(list)
-
     }
 }

@@ -1,9 +1,7 @@
 package com.example.concepts.arrays
 
-import java.util.*
-
 fun main() {
-    ArrayListExample().main()
+    MultiAL().main()
 }
 
 //fun main() {
