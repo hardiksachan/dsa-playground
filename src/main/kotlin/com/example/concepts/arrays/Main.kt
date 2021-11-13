@@ -1,7 +1,7 @@
 package com.example.concepts.arrays
 
 fun main() {
-    MultiAL().main()
+    Swap().main()
 }
 
 //fun main() {
