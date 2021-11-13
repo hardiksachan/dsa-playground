@@ -1,6 +1,4 @@
-package com.example.leetcode.two_sum
-
-// Problem link: https://leetcode.com/problems/two-sum/
+package com.example.concepts.arrays.assignments.p0001_two_sum
 
 class Solution {
     fun twoSum(nums: IntArray, target: Int): IntArray {
