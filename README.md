@@ -27,11 +27,21 @@ Check the lectures [here](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java)
 | 17 | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) | Easy | [Solution](https://github.com/hardiksachan/dsa-playground/blob/main/src/main/kotlin/com/example/concepts/arrays/assignments/p0867_transpose_matrix/Solution.kt) |
 | 18 | [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/) | Easy | [Solution](https://github.com/hardiksachan/dsa-playground/blob/main/src/main/kotlin/com/example/concepts/arrays/assignments/p0989_add_to_array_form_of_integer/Solution.kt) |
 | 19 | [Maximum Population Year](https://leetcode.com/problems/maximum-population-year/) | Easy | [Solution](https://github.com/hardiksachan/dsa-playground/blob/main/src/main/kotlin/com/example/concepts/arrays/assignments/p1854_maximum_population_year/Solution.kt) |
+| 20 | [Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/) | Easy | [Solution](https://github.com/hardiksachan/dsa-playground/blob/main/src/main/kotlin/com/example/concepts/arrays/assignments/p1886_determine_whether_matrix_can_be_obtained_by_rotation/Solution.kt) |
+| 21 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [Solution](https://github.com/hardiksachan/dsa-playground/blob/main/src/main/kotlin/com/example/concepts/arrays/assignments/p0001_two_sum/Solution.kt) |
+| 22 | [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/) | Easy | [Solution](https://github.com/hardiksachan/dsa-playground/blob/main/src/main/kotlin/com/example/concepts/arrays/assignments/p1304_find_n_unique_integers_sum_up_to_zero/Solution.kt) |
+| 23 | [Lucky Number In a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/) | Easy | [Solution](https://github.com/hardiksachan/dsa-playground/blob/main/src/main/kotlin/com/example/concepts/arrays/assignments/p1380_lucky_number_in_a_matrix/Solution.kt) |
+| 24 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Easy | [Solution](https://github.com/hardiksachan/dsa-playground/blob/main/src/main/kotlin/com/example/concepts/arrays/assignments/p0053_maximum_subarray/Solution.kt) |
+| 25 | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) | Easy | [Solution](https://github.com/hardiksachan/dsa-playground/blob/main/src/main/kotlin/com/example/concepts/arrays/assignments/p0566_reshape_the_matrix/Solution.kt) |
+| 26 | [Plus One](https://leetcode.com/problems/plus-one/) | Easy | [Solution](https://github.com/hardiksachan/dsa-playground/blob/main/src/main/kotlin/com/example/concepts/arrays/assignments/p0066_plus_one/Solution.kt) |
+| 27 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | [Solution](https://github.com/hardiksachan/dsa-playground/blob/main/src/main/kotlin/com/example/concepts/arrays/assignments/p0026_remove_duplicates_from_sorted_array/Solution.kt) |
+| 28 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | Medium | [Solution](https://github.com/hardiksachan/dsa-playground/blob/main/src/main/kotlin/com/example/concepts/arrays/assignments/p0054_spiral_matrix/Solution.kt) |
+| 29 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | Medium | [Solution](https://github.com/hardiksachan/dsa-playground/blob/main/src/main/kotlin/com/example/concepts/arrays/assignments/p0059_spiral_matrix_ii/Solution.kt) |
+
 
 ## Random Leetcode
 
 | Problem | Solution | Comments |
 | --- | --- | --- |
-| [Two Sum](https://leetcode.com/problems/two-sum/) | [Solution](https://github.com/hardiksachan/dsa-playground/blob/main/src/main/kotlin/com/example/leetcode/two_sum/Solution.kt) |  |
 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Solution](https://github.com/hardiksachan/dsa-playground/blob/main/src/main/kotlin/com/example/leetcode/median_of_two_sorted_arrays/Solution.kt) |  |
 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Solution](https://github.com/hardiksachan/dsa-playground/blob/main/src/main/kotlin/com/example/leetcode/add_two_numbers/Solution.kt) | Improvement Needed |
