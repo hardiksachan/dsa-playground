@@ -10,3 +10,10 @@ fun find(arr: Array<Int>, n: Int): Int {
     }
     return -1
 }
+
+fun exists(arr: Array<Int>, n: Int): Boolean {
+    arr.forEachIndexed { idx, num ->
+        if (num == n ) return true
+    }
+    return false
+}
