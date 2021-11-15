@@ -2,6 +2,12 @@
 
 This repository contains solutions to dsa problems in kotlin.
 
+---
+## NOTE:
+This file will get long, please consider using `<Ctrl>F`
+
+---
+
 ## DSA With Kunal - [Assignments](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java/tree/main/assignments)
 Check the lectures [here](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java)
 
