@@ -2,29 +2,34 @@ package com.example.concepts.arrays.assignments.p0075_sort_colors
 
 class Solution {
     fun sortColors(nums: IntArray): Unit {
-        var zeroes = 0
-        var ones = 0
-        var twos = 0
-
-        nums.forEach {
-            when (it) {
-                0 -> zeroes++
-                1 -> ones++
-                2 -> twos++
-            }
+        fun swap(i: Int, j: Int) {
+            val t = nums[i]
+            nums[i] = nums[j]
+            nums[j] = t
         }
 
-        nums.indices.forEach {
-            if (zeroes > 0) {
-                nums[it] = 0
-                zeroes--
-            } else if (ones > 0) {
-                nums[it] = 1
-                ones--
-            } else if (twos > 0) {
-                nums[it] = 2
-                twos--
+        var zero = 0
+        var two = nums.lastIndex
+
+        var i = 0
+
+        while (zero < two && i <= two) {
+            if (nums[i] == 0) {
+                swap(i, zero)
+                zero++
+                i++
+            } else if (nums[i] == 2 && i <= two) {
+                swap(i, two)
+                two--
+            } else {
+                i++
             }
         }
     }
+}
+
+fun main() {
+    val nums = intArrayOf(1, 2, 0)
+    Solution().sortColors(nums)
+    println(nums.contentToString())
 }
