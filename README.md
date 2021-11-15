@@ -37,6 +37,13 @@ Check the lectures [here](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java)
 | 27 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | [Solution](https://github.com/hardiksachan/dsa-playground/blob/main/src/main/kotlin/com/example/concepts/arrays/assignments/p0026_remove_duplicates_from_sorted_array/Solution.kt) |
 | 28 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | Medium | [Solution](https://github.com/hardiksachan/dsa-playground/blob/main/src/main/kotlin/com/example/concepts/arrays/assignments/p0054_spiral_matrix/Solution.kt) |
 | 29 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | Medium | [Solution](https://github.com/hardiksachan/dsa-playground/blob/main/src/main/kotlin/com/example/concepts/arrays/assignments/p0059_spiral_matrix_ii/Solution.kt) |
+| 30 | [Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/) | Medium | [Solution](https://github.com/hardiksachan/dsa-playground/blob/main/src/main/kotlin/com/example/concepts/arrays/assignments/p0885_spiral_matrix_iii/Solution.kt) |
+| 31 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | Medium | [Solution](https://github.com/hardiksachan/dsa-playground/blob/main/src/main/kotlin/com/example/concepts/arrays/assignments/p0073_set_matrix_zeroes/Solution.kt) |
+| 32 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | [Solution](https://github.com/hardiksachan/dsa-playground/blob/main/src/main/kotlin/com/example/concepts/arrays/assignments/p0238_product_of_array_except_self/Solution.kt) |
+| 33 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | Medium | [Solution](https://github.com/hardiksachan/dsa-playground/blob/main/src/main/kotlin/com/example/concepts/arrays/assignments/p0034_find_first_and_last_position_of_element_in_sorted_array/Solution.kt) |
+| 34 | [Jump Game](https://leetcode.com/problems/jump-game/) | Medium | [Solution](https://github.com/hardiksachan/dsa-playground/blob/main/src/main/kotlin/com/example/concepts/arrays/assignments/p0055_jump_game/Solution.kt) |
+| 35 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | Medium | [Solution](https://github.com/hardiksachan/dsa-playground/blob/main/src/main/kotlin/com/example/concepts/arrays/assignments/p0189_rotate_array/Solution.kt) |
+| 36 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium | [Solution](https://github.com/hardiksachan/dsa-playground/tree/main/src/main/kotlin/com/example/concepts/arrays/assignments/p0075_sort_colors) |
 
 
 ## Random Leetcode
