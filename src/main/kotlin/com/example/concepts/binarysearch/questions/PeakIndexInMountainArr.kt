@@ -13,12 +13,16 @@ class PeakIndexInMountainArr {
         var start = 0
         var end = arr.lastIndex
 
-        while (true) {
+        while (start < end) {
             val mid = start + (end - start) / 2
 
-            if ((mid == 0 || arr[mid] > arr[mid - 1]) && (mid == arr.lastIndex || arr[mid] > arr[mid + 1])) return mid
-            else if (mid == 0 || arr[mid] > arr[mid - 1]) start = mid + 1
-            else end = mid - 1
+            if (arr[mid] < arr[mid+1]) {
+                start = mid+1
+            } else {
+                end = mid
+            }
         }
+
+        return start
     }
 }
