@@ -1,4 +1,4 @@
-package com.example.concepts.linearsearch
+package com.example.concepts.searching.linearsearch
 
 import kotlin.math.absoluteValue
 import kotlin.math.log10

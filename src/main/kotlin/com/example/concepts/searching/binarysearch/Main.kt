@@ -1,4 +1,4 @@
-package com.example.concepts.binarysearch
+package com.example.concepts.searching.binarysearch
 
 fun main() {
     val arr = intArrayOf(48, 36, 20, 14, 12, 11, 9, 6, 4, 2)

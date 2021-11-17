@@ -1,4 +1,4 @@
-package com.example.concepts.linearsearch
+package com.example.concepts.searching.linearsearch
 
 class SearchIn2DArray {
     fun search(arr: Array<IntArray>, target: Int): Pair<Int, Int> {

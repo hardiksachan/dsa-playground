@@ -1,4 +1,4 @@
-package com.example.concepts.linearsearch
+package com.example.concepts.searching.linearsearch
 
 class SearchInRange {
     fun search(arr: IntArray, start: Int, end: Int, target: Int): Int {

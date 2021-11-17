@@ -1,4 +1,4 @@
-package com.example.concepts.linearsearch
+package com.example.concepts.searching.linearsearch
 
 fun main() {
     println(

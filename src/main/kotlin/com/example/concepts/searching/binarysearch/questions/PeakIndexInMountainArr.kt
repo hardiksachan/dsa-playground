@@ -1,4 +1,4 @@
-package com.example.concepts.binarysearch.questions
+package com.example.concepts.searching.binarysearch.questions
 
 class PeakIndexInMountainArr {
     fun main() {

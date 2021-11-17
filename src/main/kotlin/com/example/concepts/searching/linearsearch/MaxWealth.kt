@@ -1,4 +1,4 @@
-package com.example.concepts.linearsearch
+package com.example.concepts.searching.linearsearch
 
 class MaxWealth {
     fun execute(accounts: Array<IntArray>): Int {

@@ -1,4 +1,4 @@
-package com.example.concepts.binarysearch.questions
+package com.example.concepts.searching.binarysearch.questions
 
 class CeilingFloorOfANumber {
     fun main() {
