@@ -58,3 +58,4 @@ Check the lectures [here](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java)
 | --- | --- | --- |
 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Solution](https://github.com/hardiksachan/dsa-playground/blob/main/src/main/kotlin/com/example/leetcode/median_of_two_sorted_arrays/Solution.kt) |  |
 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Solution](https://github.com/hardiksachan/dsa-playground/blob/main/src/main/kotlin/com/example/leetcode/add_two_numbers/Solution.kt) | Improvement Needed |
+| [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | [Solution](https://github.com/hardiksachan/dsa-playground/tree/main/src/main/kotlin/com/example/leetcode/p0410_split_array_largest_sum/Solution.kt) |  |
