@@ -56,6 +56,7 @@ Check the lectures [here](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java)
 | # | Problem | Difficulty | Solution |
 | --- | --- | --- | --- |
 | 1 | [Square Root](https://leetcode.com/problems/sqrtx/) | Easy | [Solution](https://github.com/hardiksachan/dsa-playground/blob/main/src/main/kotlin/com/example/leetcode/p0069_sqrt_x/Solution.kt) |
+| 2 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | Easy | [Solution](https://github.com/hardiksachan/dsa-playground/blob/main/src/main/kotlin/com/example/leetcode/p0374_guess_number_higher_or_lower/Solution.kt) |
 
 
 ---
