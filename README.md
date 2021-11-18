@@ -62,6 +62,7 @@ Check the lectures [here](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java)
 | 5 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | Easy | [Solution](https://github.com/hardiksachan/dsa-playground/blob/main/src/main/kotlin/com/example/leetcode/p0367_valid_perfect_square/Solution.kt) |
 | 6 | [Arranging Coins](https://leetcode.com/problems/arranging-coins/) | Easy | [Solution](https://github.com/hardiksachan/dsa-playground/blob/main/src/main/kotlin/com/example/leetcode/p0441_arranging_coins/Solution.kt) |
 | 7 | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | Easy | [Solution](https://github.com/hardiksachan/dsa-playground/blob/main/src/main/kotlin/com/example/leetcode/p0744_find_smalles_letter_greater_than_target/Solution.kt) |
+| 8 | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) | Easy | [Solution](https://github.com/hardiksachan/dsa-playground/blob/main/src/main/kotlin/com/example/leetcode/p1539_kth_missing_positive_number/Solution.kt) |
 
 
 ---
