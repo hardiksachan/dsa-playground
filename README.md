@@ -52,7 +52,7 @@ Check the lectures [here](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java)
 | 36 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium | [Solution](https://github.com/hardiksachan/dsa-playground/tree/main/src/main/kotlin/com/example/leetcode/p0075_sort_colors) |
 
 
-#### Array
+#### Searching
 | # | Problem | Difficulty | Solution |
 | --- | --- | --- | --- |
 | 1 | [Square Root](https://leetcode.com/problems/sqrtx/) | Easy | [Solution](https://github.com/hardiksachan/dsa-playground/blob/main/src/main/kotlin/com/example/leetcode/p0069_sqrt_x/Solution.kt) |
@@ -60,6 +60,7 @@ Check the lectures [here](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java)
 | 3 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | Easy | [Solution](https://github.com/hardiksachan/dsa-playground/blob/main/src/main/kotlin/com/example/leetcode/p0278_first_bad_version/Solution.kt) |
 | 4 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/submissions/) | Easy | [Solution](https://github.com/hardiksachan/dsa-playground/blob/main/src/main/kotlin/com/example/leetcode/p0167_two_sum_ii/Solution.kt) |
 | 5 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | Easy | [Solution](https://github.com/hardiksachan/dsa-playground/blob/main/src/main/kotlin/com/example/leetcode/p0367_valid_perfect_square/Solution.kt) |
+| 6 | [Arranging Coins](https://leetcode.com/problems/arranging-coins/) | Easy | [Solution](https://github.com/hardiksachan/dsa-playground/blob/main/src/main/kotlin/com/example/leetcode/p0441_arranging_coins/Solution.kt) |
 
 
 ---
