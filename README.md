@@ -59,6 +59,7 @@ Check the lectures [here](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java)
 | 2 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | Easy | [Solution](https://github.com/hardiksachan/dsa-playground/blob/main/src/main/kotlin/com/example/leetcode/p0374_guess_number_higher_or_lower/Solution.kt) |
 | 3 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | Easy | [Solution](https://github.com/hardiksachan/dsa-playground/blob/main/src/main/kotlin/com/example/leetcode/p0278_first_bad_version/Solution.kt) |
 | 4 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/submissions/) | Easy | [Solution](https://github.com/hardiksachan/dsa-playground/blob/main/src/main/kotlin/com/example/leetcode/p0167_two_sum_ii/Solution.kt) |
+| 5 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | Easy | [Solution](https://github.com/hardiksachan/dsa-playground/blob/main/src/main/kotlin/com/example/leetcode/p0367_valid_perfect_square/Solution.kt) |
 
 
 ---
