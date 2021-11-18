@@ -52,6 +52,14 @@ Check the lectures [here](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java)
 | 36 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium | [Solution](https://github.com/hardiksachan/dsa-playground/tree/main/src/main/kotlin/com/example/leetcode/p0075_sort_colors) |
 
 
+#### Array
+| # | Problem | Difficulty | Solution |
+| --- | --- | --- | --- |
+| 1 | [Square Root](https://leetcode.com/problems/sqrtx/) | Easy | [Solution](https://github.com/hardiksachan/dsa-playground/blob/main/src/main/kotlin/com/example/leetcode/p0069_sqrt_x/Solution.kt) |
+
+
+---
+
 ## Random Leetcode
 
 | Problem | Solution | Comments |
