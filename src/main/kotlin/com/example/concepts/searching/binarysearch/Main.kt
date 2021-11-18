@@ -1,9 +1,14 @@
 package com.example.concepts.searching.binarysearch
 
 fun main() {
-    val arr = intArrayOf(48, 36, 20, 14, 12, 11, 9, 6, 4, 2)
+    val arr = arrayOf(
+        intArrayOf(1, 2, 3, 4),
+        intArrayOf(5, 6, 7, 8),
+        intArrayOf(9, 10, 11, 12),
+        intArrayOf(13, 14, 15, 16),
+    )
     val target = 9
-    println(orderAgnosticSearch(arr, target))
+    println(searchSortedMatrix(arr, target))
 }
 
 fun search(arr: IntArray, target: Int): Int {
