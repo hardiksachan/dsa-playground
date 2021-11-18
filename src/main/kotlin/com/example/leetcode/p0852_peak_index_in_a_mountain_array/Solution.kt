@@ -1,14 +1,6 @@
-package com.example.concepts.searching.binarysearch
+package com.example.leetcode.p0852_peak_index_in_a_mountain_array
 
-class PeakIndexInMountainArr {
-    fun main() {
-        println(
-            peakIndexInMountainArray(
-                intArrayOf(3, 5, 3, 2, 0)
-            )
-        )
-    }
-
+class Solution {
     fun peakIndexInMountainArray(arr: IntArray): Int {
         var start = 0
         var end = arr.lastIndex
@@ -22,7 +14,14 @@ class PeakIndexInMountainArr {
                 end = mid
             }
         }
-
         return start
     }
+}
+
+fun main() {
+    println(
+        Solution().peakIndexInMountainArray(
+            intArrayOf(3, 5, 3, 2, 0)
+        )
+    )
 }
