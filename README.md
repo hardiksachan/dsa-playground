@@ -70,6 +70,7 @@ Check the lectures [here](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java)
 | 13 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | Easy | [Solution](https://github.com/hardiksachan/dsa-playground/blob/main/src/main/kotlin/com/example/leetcode/p0350_interseaction_of_two_arrays_ii/Solution.kt) |
 | 14 | [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/) | Easy | [Solution](https://github.com/hardiksachan/dsa-playground/blob/main/src/main/kotlin/com/example/leetcode/p0888_fair_candy_swap/Solution.kt) |
 | 15 | [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | Easy | [Solution](https://github.com/hardiksachan/dsa-playground/blob/main/src/main/kotlin/com/example/leetcode/p1346_check_if_n_and_its_double_exist/Solution.kt) |
+| 16 | [Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/) | Easy | [Solution](https://github.com/hardiksachan/dsa-playground/blob/main/src/main/kotlin/com/example/leetcode/p1608_special_array_with_x_elements_greater_than_or_equal_x/Solution.kt) |
 
 
 ---
