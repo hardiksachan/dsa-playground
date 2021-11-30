@@ -89,6 +89,7 @@ Check the lectures [here](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java)
 | 3 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | Medium | [Solution](https://github.com/hardiksachan/dsa-playground/blob/main/src/main/kotlin/com/example/leetcode/p0287_find_the_duplicate_number/Solution.kt) |
 | 4 | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | Medium | [Solution](https://github.com/hardiksachan/dsa-playground/blob/main/src/main/kotlin/com/example/leetcode/p0442_find_all_duplicates_in_an_array/Solution.kt) |
 | 5 | [Set Mismatch](https://leetcode.com/problems/set-mismatch/) | Medium | [Solution](https://github.com/hardiksachan/dsa-playground/blob/main/src/main/kotlin/com/example/leetcode/p0645_set_mismatch/Solution.kt) |
+| 6 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | Hard | [Solution](https://github.com/hardiksachan/dsa-playground/blob/main/src/main/kotlin/com/example/leetcode/p0041_first_missing_positive/Solution.kt) |
 
 
 ---
