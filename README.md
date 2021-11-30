@@ -85,6 +85,7 @@ Check the lectures [here](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java)
 | # | Problem | Difficulty | Solution |
 | --- | --- | --- | --- |
 | 1 | [Missing Number](https://leetcode.com/problems/missing-number/) | Easy | [Solution](https://github.com/hardiksachan/dsa-playground/blob/main/src/main/kotlin/com/example/leetcode/p0268_missing_number/Solution.kt) |
+| 2 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | Easy | [Solution](https://github.com/hardiksachan/dsa-playground/blob/main/src/main/kotlin/com/example/leetcode/p0448_find_all_numbers_disappeared_in_an_array/Solution.kt) |
 
 
 ---
