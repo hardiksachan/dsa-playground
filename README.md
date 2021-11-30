@@ -81,6 +81,12 @@ Check the lectures [here](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java)
 | 24 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | Medium | [Solution](https://github.com/hardiksachan/dsa-playground/blob/main/src/main/kotlin/com/example/leetcode/p0074_search_a_2d_matrix/Solution.kt) |
 
 
+#### Sort
+| # | Problem | Difficulty | Solution |
+| --- | --- | --- | --- |
+| 1 | [Missing Number](https://leetcode.com/problems/missing-number/) | Easy | [Solution](https://github.com/hardiksachan/dsa-playground/blob/main/src/main/kotlin/com/example/leetcode/p0268_missing_number/Solution.kt) |
+
+
 ---
 
 ## Random Leetcode
