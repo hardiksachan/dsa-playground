@@ -6,7 +6,7 @@ fun main() {
     println(arr.contentToString())
 }
 
-fun insertionSort(arr: IntArray) { 
+fun insertionSort(arr: IntArray) {
     for (i in 0 until arr.lastIndex) {
         for (j in (i+1) downTo 1) {
             if (arr[j] >= arr[j-1]) break // this line decides asc or desc
