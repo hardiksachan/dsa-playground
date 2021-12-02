@@ -104,6 +104,7 @@ Check the lectures [here](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java)
 | 14  | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)                                         | Easy       | [Solution](https://github.com/hardiksachan/dsa-playground/blob/main/src/main/kotlin/com/example/leetcode/p0905_sort_array_by_parity/Solution.kt)                     |
 | 15  | [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)                                   | Easy       | [Solution](https://github.com/hardiksachan/dsa-playground/blob/main/src/main/kotlin/com/example/leetcode/p0922_sort_array_by_parity_ii/Solution.kt)                  |
 | 16  | [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)                             | Easy       | [Solution](https://github.com/hardiksachan/dsa-playground/blob/main/src/main/kotlin/com/example/leetcode/p0976_largest_perimeter_triangle/Solution.kt)               |
+| 17  | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)                               | Easy       | [Solution](https://github.com/hardiksachan/dsa-playground/blob/main/src/main/kotlin/com/example/leetcode/p0977_squares_of_sorted_array/Solution.kt)                  |
 
 ---
 
