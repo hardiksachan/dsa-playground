@@ -1,35 +1,42 @@
 package com.example.leetcode.p0414_third_maximum_number
 
 class Solution {
-    fun thirdMax(arr: IntArray): Int {
-//        val arr = nums.toSet().toIntArray()
+    fun thirdMax(nums: IntArray): Int {
+        var m1: Int? = null
+        var m2: Int? = null
+        var m3: Int? = null
 
-        (arr.lastIndex downTo 1).forEach { i ->
-            var maxIdx = 0
-            (1..i).forEach { j ->
-                if (arr[j] > arr[maxIdx]) maxIdx = j
+        for (num in nums) {
+            if (m1 == null) {
+                m1 = num
+            } else if (num > m1) {
+                m3 = m2
+                m2 = m1
+                m1 = num
+            } else if (num == m1) {
+                continue
+            } else if (m2 == null) {
+                m2 = num
+            } else if (num > m2) {
+                m3 = m2
+                m2 = num
+            } else if (num == m2) {
+                continue
+            } else if (m3 == null) {
+                m3 = num
+            } else if (num > m3) {
+                m3 = num
             }
-
-            val t = arr[i]
-            arr[i] = arr[maxIdx]
-            arr[maxIdx] = t
         }
 
-        var distinct = 1
-        var res = arr.last()
-
-        (arr.lastIndex downTo 0).forEach { i ->
-            if (arr[i] != res) {
-                res = arr[i]
-                distinct++
-            }
-
-            if (distinct == 3) {
-                return res
-            }
-        }
-
-        return arr.last()
-
+        return m3 ?: m1!!
     }
+}
+
+fun main() {
+    println(
+        Solution().thirdMax(
+            intArrayOf(2, 2, 3, 1)
+        )
+    )
 }
