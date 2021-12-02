@@ -103,6 +103,7 @@ Check the lectures [here](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java)
 | 13  | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)                 | Easy       | [Solution](https://github.com/hardiksachan/dsa-playground/blob/main/src/main/kotlin/com/example/leetcode/p0628_maximum_product_of_three_numbers/Solution.kt)         |
 | 14  | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)                                         | Easy       | [Solution](https://github.com/hardiksachan/dsa-playground/blob/main/src/main/kotlin/com/example/leetcode/p0905_sort_array_by_parity/Solution.kt)                     |
 | 15  | [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)                                   | Easy       | [Solution](https://github.com/hardiksachan/dsa-playground/blob/main/src/main/kotlin/com/example/leetcode/p0922_sort_array_by_parity_ii/Solution.kt)                  |
+| 16  | [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)                             | Easy       | [Solution](https://github.com/hardiksachan/dsa-playground/blob/main/src/main/kotlin/com/example/leetcode/p0976_largest_perimeter_triangle/Solution.kt)               |
 
 ---
 
