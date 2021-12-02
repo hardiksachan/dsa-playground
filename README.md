@@ -101,6 +101,7 @@ Check the lectures [here](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java)
 | 11  | [Assign Cookies](https://leetcode.com/problems/assign-cookies/)                                                     | Easy       | [Solution](https://github.com/hardiksachan/dsa-playground/blob/main/src/main/kotlin/com/example/leetcode/p0455_assign_cookies/Solution.kt)                           |
 | 12  | [Array Partition I](https://leetcode.com/problems/array-partition-i/)                                               | Easy       | [Solution](https://github.com/hardiksachan/dsa-playground/blob/main/src/main/kotlin/com/example/leetcode/p0561_array_partition_i/Solution.kt)                        |
 | 13  | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)                 | Easy       | [Solution](https://github.com/hardiksachan/dsa-playground/blob/main/src/main/kotlin/com/example/leetcode/p0628_maximum_product_of_three_numbers/Solution.kt)         |
+| 14  | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)                                         | Easy       | [Solution](https://github.com/hardiksachan/dsa-playground/blob/main/src/main/kotlin/com/example/leetcode/p0905_sort_array_by_parity/Solution.kt)                     |
 
 ---
 
