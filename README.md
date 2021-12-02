@@ -98,6 +98,7 @@ Check the lectures [here](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java)
 | 8   | [Majority Element](https://leetcode.com/problems/majority-element/)                                                 | Easy       | [Solution](https://github.com/hardiksachan/dsa-playground/blob/main/src/main/kotlin/com/example/leetcode/p0169_majority_element/Solution.kt)                         |
 | 9   | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                                             | Easy       | [Solution](https://github.com/hardiksachan/dsa-playground/blob/main/src/main/kotlin/com/example/leetcode/p0217_contains_duplicate/Solution.kt)                       |
 | 10  | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)                                         | Easy       | [Solution](https://github.com/hardiksachan/dsa-playground/blob/main/src/main/kotlin/com/example/leetcode/p0414_third_maximum_number/Solution.kt)                     |
+| 11  | [Assign Cookies](https://leetcode.com/problems/assign-cookies/)                                                     | Easy       | [Solution](https://github.com/hardiksachan/dsa-playground/blob/main/src/main/kotlin/com/example/leetcode/p0455_assign_cookies/Solution.kt)                           |
 
 ---
 
