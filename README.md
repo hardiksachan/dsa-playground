@@ -112,6 +112,7 @@ Check the lectures [here](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java)
 | 22  | [Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/)                                                     | Easy       | [Solution](https://github.com/hardiksachan/dsa-playground/blob/main/src/main/kotlin/com/example/leetcode/p1331_rank_transform_of_an_array/Solution.kt)                           |
 | 23  | [Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/)                               | Easy       | [Solution](https://github.com/hardiksachan/dsa-playground/blob/main/src/main/kotlin/com/example/leetcode/p1356_sort_integers_by_the_numbers_of_1_bits/Solution.kt)               |
 | 24  | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | Easy       | [Solution](https://github.com/hardiksachan/dsa-playground/blob/main/src/main/kotlin/com/example/leetcode/p1365_how_many_numbers_are_smaller_than_the_current_number/Solution.kt) |
+| 25  | [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)                   | Easy       | [Solution](https://github.com/hardiksachan/dsa-playground/blob/main/src/main/kotlin/com/example/leetcode/p1464_maximum_product_of_two_elements_in_an_array/Solution.kt)          |
 
 ---
 
