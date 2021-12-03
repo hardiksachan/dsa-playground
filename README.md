@@ -108,6 +108,7 @@ Check the lectures [here](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java)
 | 18  | [Matrix Cells in Distance Order](https://leetcode.com/problems/matrix-cells-in-distance-order/)                     | Easy       | [Solution](https://github.com/hardiksachan/dsa-playground/blob/main/src/main/kotlin/com/example/leetcode/p1030_matrix_cells_in_distance_order/Solution.kt)           |
 | 19  | [Height Checker](https://leetcode.com/problems/height-checker/)                                                     | Easy       | [Solution](https://github.com/hardiksachan/dsa-playground/blob/main/src/main/kotlin/com/example/leetcode/p1051_height_checker/Solution.kt)                           |
 | 20  | [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)                                           | Easy       | [Solution](https://github.com/hardiksachan/dsa-playground/blob/main/src/main/kotlin/com/example/leetcode/p1122_relative_sort_array/Solution.kt)                      |
+| 21  | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/)                           | Easy       | [Solution](https://github.com/hardiksachan/dsa-playground/blob/main/src/main/kotlin/com/example/leetcode/p1200_minimum_absolute_difference/Solution.kt)              |
 
 ---
 
