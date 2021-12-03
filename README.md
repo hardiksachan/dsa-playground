@@ -110,6 +110,7 @@ Check the lectures [here](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java)
 | 20  | [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)                                           | Easy       | [Solution](https://github.com/hardiksachan/dsa-playground/blob/main/src/main/kotlin/com/example/leetcode/p1122_relative_sort_array/Solution.kt)                      |
 | 21  | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/)                           | Easy       | [Solution](https://github.com/hardiksachan/dsa-playground/blob/main/src/main/kotlin/com/example/leetcode/p1200_minimum_absolute_difference/Solution.kt)              |
 | 22  | [Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/)                             | Easy       | [Solution](https://github.com/hardiksachan/dsa-playground/blob/main/src/main/kotlin/com/example/leetcode/p1331_rank_transform_of_an_array/Solution.kt)               |
+| 23  | [Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/)       | Easy       | [Solution](https://github.com/hardiksachan/dsa-playground/blob/main/src/main/kotlin/com/example/leetcode/p1356_sort_integers_by_the_numbers_of_1_bits/Solution.kt)   |
 
 ---
 
