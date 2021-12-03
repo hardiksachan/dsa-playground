@@ -2,22 +2,18 @@ package com.example.leetcode.p1365_how_many_numbers_are_smaller_than_the_current
 
 class Solution {
     fun smallerNumbersThanCurrent(nums: IntArray): IntArray {
-        val occurrences = mutableMapOf<Int, Int>()
-        nums.forEach {
-            if (occurrences.containsKey(it)) {
-                occurrences[it] = occurrences[it]!! + 1
-            } else {
-                occurrences[it] = 1
+        val sorted = nums.sorted()
+
+        val smallerMap = mutableMapOf<Int, Int>() // number, smaller count
+
+        smallerMap[sorted[0]] = 0
+        for (i in 1..sorted.lastIndex) {
+            if (!smallerMap.containsKey(sorted[i])) {
+                smallerMap[sorted[i]] = i
             }
         }
 
-        return  IntArray(nums.size) { i ->
-            var count = 0
-            (0 until nums[i]).forEach {
-                count += occurrences[it] ?: 0
-            }
-            count
-        }
+        return nums.map { smallerMap[it]!! }.toIntArray()
     }
 }
 
