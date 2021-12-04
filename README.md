@@ -116,6 +116,7 @@ Check the lectures [here](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java)
 | 26  | [Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/) | Easy       | [Solution](https://github.com/hardiksachan/dsa-playground/blob/main/src/main/kotlin/com/example/leetcode/p1491_average_salary_excluding_the_minimum_and_maximum_salary/Solution.kt) |
 | 27  | [Make Two Arrays Equal by Reversing Sub-arrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/)                     | Easy       | [Solution](https://github.com/hardiksachan/dsa-playground/blob/main/src/main/kotlin/com/example/leetcode/p1460_make_two_arrays_equal_by_reversing_sub_arrays/Solution.kt)           |
 | 28  | [Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/)                     | Easy       | [Solution](https://github.com/hardiksachan/dsa-playground/blob/main/src/main/kotlin/com/example/leetcode/p1502_can_make_arithmetic_progression_from_sequence/Solution.kt)           |
+| 29  | [Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/)                                           | Easy       | [Solution](https://github.com/hardiksachan/dsa-playground/blob/main/src/main/kotlin/com/example/leetcode/p1636_sort_array_by_increasing_frequency/Solution.kt)                      |
 
 ---
 
