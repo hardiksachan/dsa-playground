@@ -119,6 +119,7 @@ Check the lectures [here](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java)
 | 29  | [Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/)                                           | Easy       | [Solution](https://github.com/hardiksachan/dsa-playground/blob/main/src/main/kotlin/com/example/leetcode/p1636_sort_array_by_increasing_frequency/Solution.kt)                      |
 | 30  | [3 Sum](https://leetcode.com/problems/3sum/)                                                                                                      | Easy       | [Solution](https://github.com/hardiksachan/dsa-playground/blob/main/src/main/kotlin/com/example/leetcode/p0015_3sum/Solution.kt)                                                    |
 | 31  | [3Sum Closest](https://leetcode.com/problems/3sum-closest/)                                                                                       | Easy       | [Solution](https://github.com/hardiksachan/dsa-playground/blob/main/src/main/kotlin/com/example/leetcode/p0016_3sum_closest/Solution.kt)                                            |
+| 32  | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                                                                                   | Easy       | [Solution](https://github.com/hardiksachan/dsa-playground/blob/main/src/main/kotlin/com/example/leetcode/p0049_group_anagrams/Solution.kt)                                          |
 
 ---
 
