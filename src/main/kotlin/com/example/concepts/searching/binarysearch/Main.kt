@@ -16,7 +16,7 @@ fun search(arr: IntArray, target: Int): Int {
     var end = arr.lastIndex
 
     while (start <= end) {
-        val mid = start + (end - start) / 2
+        val mid = start + (end - start) / 2 // to avoid Int overflow
 
         if (arr[mid] < target) {
             start = mid + 1
